@@ -1,4 +1,4 @@
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🧢 <a href="https://clarkmaio.github.io/">Andrea (Clark) Maioli</a>
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🧢 <a href="https://clarkmaio.github.io/me.html">Andrea (Clark) Maioli</a>
 <span style="color: #808080; text-decoration-color: #808080">┃ </span>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>🐬 Random
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://huggingface.co/spaces/clarkmaio/ft_archive">FT+archive</a></span>                 - <span style="color: #808080; text-decoration-color: #808080">(illegal?) financial times energy page mirror</span>
@@ -11,7 +11,7 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="?">essentials</a></span>                 - <span style="color: #808080; text-decoration-color: #808080">core tools that I use in every project</span>
 <span style="color: #808080; text-decoration-color: #808080">┃ </span>
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>🦄 Dreams
-<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold">ollie on skateboard</span>  
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: none">ollie on skateboard</span>  
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold">dunk at basketball</span>                 
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold">✅ full kungsladen</span>                 
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold">✅ bake bread</span> 
