@@ -13,5 +13,5 @@
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>🦄 Dreams
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold">ollie on skateboard</span>  
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold">dunk at bastekball</span>                 
-<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold">✅ kunsladen</span>                 
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold">✅ full kungsladen</span>                 
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold">✅ bake bread</span> 
