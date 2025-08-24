@@ -8,7 +8,8 @@
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📦 Open source
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/clarkmaio/ezio">ezio</a></span>                       - <span style="color: #808080; text-decoration-color: #808080">just the best altair wrapper in the world (i guess also the only one)</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="?">templates</a></span>                  - <span style="color: #808080; text-decoration-color: #808080">collection of templates for python projects</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="?">essentials</a></span>                 - <span style="color: #808080; text-decoration-color: #808080">core tools that I use in every project</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/clarkmaio/clarkpy_optimisation">clarkpy_optimisation</a></span>       - <span style="color: #808080; text-decoration-color: #808080">collection of optimisation tools</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/clarkmaio/NordPoolCrawler"><s>nordpool crawler</s></a></span>           - <span style="color: #808080; text-decoration-color: #808080"><b>DEPRECATED</b> thank you NordPool.</span>
 <span style="color: #808080; text-decoration-color: #808080">┃ </span>
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>🦄 Dreams
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: none">ollie on skateboard</span>  
