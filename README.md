@@ -8,6 +8,7 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/SwissMortageRate">swiss mortage rate</a></span>         - <span style="color: #808080; text-decoration-color: #808080">monitor swiss mortage rate to be ready to ask rent reduction</span>
 <span style="color: #808080; text-decoration-color: #808080">┃ </span>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold">📦 open source</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/pimpmyplot">pimpmyplot</a></span>                 - <span style="color: #808080; text-decoration-color: #808080">small collection of functions to make better looking matplotlib plots </span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/ezio">ezio</a></span>                       - <span style="color: #808080; text-decoration-color: #808080">just the best altair wrapper in the world (i guess also the only one)</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/NordPoolCrawler"><s>nordpool crawler</s></a></span>           - <span style="color: #808080; text-decoration-color: #808080"><b>DEPRECATED</b> thank you NordPool.</span>
 <span style="color: #808080; text-decoration-color: #808080">┃ </span>
@@ -23,7 +24,7 @@
 
 
 
-
+https://github.com/clarkmaio/pimpmyplot
 
   
 
