@@ -26,7 +26,6 @@
 
 
 
-https://github.com/clarkmaio/pimpmyplot
 
   
 
