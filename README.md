@@ -1,17 +1,14 @@
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🧢 <a href="https://clarkmaio.github.io/me.html">andrea (clark) maioli</a>
 <span style="color: #808080; text-decoration-color: #808080">┃ </span>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold">🐬 random</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://huggingface.co/spaces/clarkmaio/GianniSchicchiTracker">Gianni Schicchi Tracker</a></span>    - <span style="color: #808080; text-decoration-color: #808080">a webpage to track what really matters</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="WHC.html">We Have Cookies</a></span>            - <span style="color: #808080; text-decoration-color: #808080">book club, with black jack and hookers...wait a sec</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/cooltex">cooltex</a></span>                    - <span style="color: #808080; text-decoration-color: #808080">collection of macros/functions to make your LaTeX very cool</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/predico_datapipeline">predico datapipeline</a></span>       - <span style="color: #808080; text-decoration-color: #808080">data pipeline and data lake I built for the Predico project by Elia</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/auroraborealis">aurora API</a></span>                 - <span style="color: #808080; text-decoration-color: #808080">FastAPI server (experiment) to retrieve historical aurora borealis data</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://huggingface.co/spaces/clarkmaio/ft_archive">ft+archive</a></span>                 - <span style="color: #808080; text-decoration-color: #808080">(illegal?) financial times energy page mirror</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/OoopsIndex">ooops index</a></span>                - <span style="color: #808080; text-decoration-color: #808080">tiny HF app to monitor vessels in Baltic sea</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/SwissMortageRate">swiss mortage rate</a></span>         - <span style="color: #808080; text-decoration-color: #808080">script to scrape swiss mortage rate in order to ask for rent reduction</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/SwissMortageRate">swiss mortage rate</a></span>         - <span style="color: #808080; text-decoration-color: #808080">monitor swiss mortage rate to be ready to ask rent reduction</span>
 <span style="color: #808080; text-decoration-color: #808080">┃ </span>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold">📦 open source</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/bachtrackapi">bachtrackapi</a></span>              - <span style="color: #808080; text-decoration-color: #808080">scraper and fastapi backend to retrieve data of opera works from bachtrack.com </span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/pimpmyplot">pimpmyplot</a></span>                 - <span style="color: #808080; text-decoration-color: #808080">small collection of functions to make better looking matplotlib plots </span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/slurp">slurp</a></span>                      - <span style="color: #808080; text-decoration-color: #808080">api for spline based models. inspired by <a href="https://pygam.readthedocs.io/en/latest/">pygam</a></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: none"><a href="https://github.com/clarkmaio/ezio">ezio</a></span>                       - <span style="color: #808080; text-decoration-color: #808080">just the best altair wrapper in the world (i guess also the only one)</span>
@@ -26,10 +23,4 @@
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: none">dunk at basketball</span>                 
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: none">✅ full kungsladen</span>                 
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: none">✅ bake bread</span> 
-
-
-
-
-  
-
-I copied this page style from <a href="https://github.com/koaning/">koaning</a>.
+</pre>
